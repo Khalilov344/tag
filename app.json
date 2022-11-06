@@ -1,18 +1,17 @@
 {
-  "name": "TÜRK-C Tagger Bot",
-  "logo":"https://telegra.ph/file/50c0103e4548eaae95e4d.jpg",
-  "description": "TÜRK-C TAG bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
+  "name": "Aysel Yeraz Tag Botu",
+  "description": "Aysel Yeraz TAG botu, üzvlerinizi pulsuz olaraq etiketleyen bir botdur",
   "env": {
     "TOKEN": {
-      "description": "bot token girin YOUTUBE KANALIMDA KURULUMU VAR .",
+      "description": "Botu Qurmaq Cox Asandir .",
       "value": ""
     },
     "APP_ID": {
-      "description": "@otomytelegrambot dan api hash api id alınız. @turkcbot'a katıl sorunsuz çalışsın",
+      "description": "@ScrapperRoBot dan api hash api id alın. Quruplar'a qatıl prablemsiz islesin",
       "value": ""
     },
     "API_HASH": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "@ScrapperRoBot dan api hash api id alın.",
       "value": ""
     }
   },
